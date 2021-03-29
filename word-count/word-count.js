@@ -16,4 +16,4 @@ class Words {
   }
 };
 
-// module.exports = Words;
+module.exports = Words;
